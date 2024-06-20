@@ -1,0 +1,2 @@
+C:\My Programs\academy\kurs2\practice2\Fon\Fon\x64\Debug\Fon.vcxproj.AssemblyReference.cache
+C:\My Programs\academy\kurs2\practice2\Fon\Fon\x64\Debug\Fon.exe

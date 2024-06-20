@@ -1,0 +1,2 @@
+C:\My Programs\academy\kurs2\practice2\Minesweeper\Minesweeper\x64\Debug\Minesweeper.vcxproj.AssemblyReference.cache
+C:\My Programs\academy\kurs2\practice2\Minesweeper\Minesweeper\x64\Debug\Minesweeper.exe
